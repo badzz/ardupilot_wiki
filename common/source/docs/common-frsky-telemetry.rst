@@ -1,7 +1,7 @@
 .. _common-frsky-telemetry:
 
 ===============
-FrSky Telemetry
+FrSky2 Telemetry
 ===============
 
 This article describes how to transmit vehicle information from the
